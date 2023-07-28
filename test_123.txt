@@ -1,0 +1,6 @@
+To test the repo pratice like 
+git status
+git add
+git commit -m "--comment"
+
+atrl+X
